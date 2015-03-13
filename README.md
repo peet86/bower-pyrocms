@@ -1,6 +1,5 @@
 
 #bower-pyrocms module
-=====================================
 Use bower assets in your pyrocms theme 
 
 Usage:
