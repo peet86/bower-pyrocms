@@ -1,6 +1,6 @@
 
 #bower-pyrocms module
-Use bower assets in your pyrocms theme 
+Use bower assets in your pyrocms theme.
 
 Usage:
 -----------
@@ -24,7 +24,9 @@ Install:
 
 Note: The default bower folder is theme_root/bower_components. If you set different path in your bower config (ex.: vendor) please go to Control Panel / Settings / Bower tab and set the same path name there.
 
-
+Compatibility:
+--------
+PyroCMS 2.x 
 
 License: 
 ---------
