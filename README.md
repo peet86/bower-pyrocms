@@ -8,6 +8,13 @@ Usage:
 {{ theme:js file="bower::library/library.js" }}
 {{ theme:css file="bower::library/library.css" }}
 ```
+OR
+```php
+{{ asset:js file="bower::library/library.js" }}
+{{ asset:css file="bower::library/library.css" }}
+{{ asset:render}}
+```
+
 
 Install:
 --------
